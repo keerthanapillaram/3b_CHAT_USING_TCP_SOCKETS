@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+## Name : Keerthana P 
+## Register number : 212223240069
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -8,9 +10,6 @@ To write a python program for creating Chat using TCP Sockets Links.
  server
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
-### Name : P Keerthana
-### Reg  :  212223240069
-
 ## Client
 ```
 import socket
